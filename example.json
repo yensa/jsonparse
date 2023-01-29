@@ -1,0 +1,17 @@
+{
+    "name": "NAME HERE",
+    "qte": 23,
+    "list": [
+        {
+            "label": "AA",
+            "price": 2
+        },
+        {
+            "label": "BB",
+            "price": 7
+        }
+    ],
+    "works?": false,
+    "as does this?": true,
+    "and this ?": null
+}
